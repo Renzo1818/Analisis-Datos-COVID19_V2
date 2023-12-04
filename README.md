@@ -3,18 +3,23 @@ El presente proyecto tiene como objetivo analizar los datos masivos proporcionad
 
 ### Tecnologías y herramientas empleadas
 Oracle VirtualBox:
+
 ![](https://th.bing.com/th/id/R.da15db6964f3d9d342d2640409acb815?rik=q%2bOWhHwrjenwfQ&pid=ImgRaw&r=0&sres=1&sresct=1)
 
 Oracle Database 19c:
+
 ![](https://1.bp.blogspot.com/-TpggTngsmGg/XpvB9il-51I/AAAAAAAAKfU/Ik-OV8eLhoQJjc5RTk_KWggsyan-pHYGACLcBGAsYHQ/s1600/19c_image.jpg)
 
 Oracle SQL Developer:
+
 ![](https://techgoeasy.com/wp-content/uploads/2016/07/oracle_sql_developer.png)
 
 Oracle SQL Developer Data Modeler:
+
 ![](https://3.bp.blogspot.com/_JWosBXRVxhY/SmRTRCFsYBI/AAAAAAAADPY/0CjvoQOftVQ/s400/Oracle_sql_developer_data_modeler.jpg)
 
 Microsoft Power BI:
+
 ![](https://iexcel.in/wp-content/uploads/2020/05/Power-Bi-1-850x440.jpg)
 
 --
