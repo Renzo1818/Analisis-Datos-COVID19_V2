@@ -10,3 +10,5 @@ La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos 
 
 ## DICCIONARIO DE DATOS: CÓDIGOS EQUIVALENTES DE UBIGEO DEL PERÚ
 La siguiente datos fueron extraidos de la Plataforma Nacional de Datos Abiertos del MINSA: [UBIGEO DEL PERÚ](https://www.datosabiertos.gob.pe/dataset/codigos-equivalentes-de-ubigeo-del-peru).
+
+![diccionario ubigeo](https://github.com/Renzo1818/Analisis-Datos-COVID19/assets/93232895/9b527b6c-d5a2-49f9-9c24-dbe7ea4f0a9a)
